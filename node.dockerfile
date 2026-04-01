@@ -1,6 +1,6 @@
 FROM        node:alpine
 
-LABEL       author="Dan Wahlin"
+LABEL       author="Jason Stroup"
 ARG         PACKAGES=nano
 
 ENV         NODE_ENV=production
